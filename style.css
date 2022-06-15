@@ -1,0 +1,15 @@
+section{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    height: 80vh;
+    justify-content: center;
+}
+section img{
+    width: 30vw;
+    padding: 4vw;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
